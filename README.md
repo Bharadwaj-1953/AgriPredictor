@@ -74,3 +74,10 @@ The features were normalized and label-encoded before model training.
 | **Random Forest**            | **99.24%** |
 
 *Random Forest provided the best overall performance on the validation set.*
+---
+## 📬 Contact Information
+
+For any detailed information, clarification, or collaboration inquiries regarding this project, feel free to reach out:
+
+- **Email**: [manne.bharadwaj.1953@gmail.com](mailto:manne.bharadwaj.1953@gmail.com)
+- **LinkedIn**: [Bharadwaj Manne](https://www.linkedin.com/in/bharadwaj-manne-711476249/)
